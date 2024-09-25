@@ -1,0 +1,82 @@
+[
+  {
+    "Region": "Australia",
+    "RegionData": [
+      {
+        "Region": "Australia East",
+        "Prefix": "20.157.220.0/24",
+        "IP": "20.157.220.25",
+        "Name": "aue-az1.australiaeast.cloudapp.azure.com"
+      },
+      {
+        "Region": "Australia Central",
+        "Prefix": "20.28.0.0/17",
+        "IP": "20.28.15.93",
+        "Name": ""
+      },
+      {
+        "Region": "Australia East",
+        "Prefix": "20.11.128.0/17",
+        "IP": "20.42.223.174",
+        "Name": ""
+      },
+      {
+        "Region": "Australia Southeast",
+        "Prefix": "20.11.128.0/17",
+        "IP": "40.127.86.171",
+        "Name": ""
+      }
+    ]
+  },
+  {
+    "Region": "Americas",
+    "RegionData": [
+      {
+        "Region": "East US",
+        "Prefix": "51.8.192.0/18",
+        "IP": "51.8.247.128",
+        "Name": ""
+      },
+      {
+        "Region": "West US 2",
+        "Prefix": "172.179.0.0/16",
+        "IP": "172.179.125.170",
+        "Name": ""
+      }      
+    ]
+  },
+  {
+    "Region": "EMEA",
+    "RegionData": [
+      {
+        "Region": "Broken",
+        "Prefix": "192.168.15.0/24",
+        "IP": "192.168.15.5",
+        "Name": ""
+      },
+      {
+        "Region": "UK South",
+        "Prefix": "85.210.0.0/16",
+        "IP": "85.210.139.113",
+        "Name": ""
+      }
+    ]
+  },
+  {
+    "Region": "Luke",
+    "RegionData": [
+      {
+        "Region": "Broken",
+        "Prefix": "192.168.15.0/24",
+        "IP": "192.168.15.5",
+        "Name": ""
+      },
+      {
+        "Region": "UK South",
+        "Prefix": "85.210.0.0/16",
+        "IP": "85.210.139.113",
+        "Name": ""
+      }
+    ]
+  }
+]
